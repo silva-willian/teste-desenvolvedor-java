@@ -1,4 +1,4 @@
-# Teste para desenvolvedor .NetCore
+# Teste para desenvolvedor Java
 
 Esse é um teste para que possamos avaliar seus conhecimentos técnicos em Java com Spring Boot e qualidade do código. Mais importante do que terminar o teste por completo, é entendermos a linha de raciocinio e as praticas de qualidade utilizadas!
 
